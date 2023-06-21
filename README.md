@@ -29,6 +29,8 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+- [Link](#Link)
+- [Image](#Image)
 
 
 ## Installation
@@ -51,6 +53,13 @@ To get started, please follow these steps:
 
 That's it! You should now be able to use the recipe-sharing platform to share and discover new recipes with other food enthusiasts.
 
+## Image
+![image](https://github.com/YaslinskiyM/Note-Taker/assets/107730204/6fa10dc8-c198-4c36-b001-14669849983d)
+
+## Link
+https://drive.google.com/file/d/1X19jbKBhC-wlA465d1wU1BdCnBKQfw4e/view
+
+
 ## Technologies
 	• Express.js
 	• MySQL
@@ -65,8 +74,3 @@ This would be suitable to understand the fundamental architecture of e-commerce 
 
 ## License
 ${renderLicenseSection(data.license)} 
-
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here

@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const { Product, Category, Tag, ProductTag } = require('../../models');
+const { Product, Category, Tag, ProductTag } = require("./../../model");
 
 // The `/api/products` endpoint
 
@@ -77,7 +77,7 @@ router.put('/:id', (req, res) => {
       id: req.params.id,
     },
   })
-    .then((product) => {
+    .then((Product) => {
       // find all associated tags from ProductTag
       return ProductTag.findAll({ where: { product_id: req.params.id } });
     })

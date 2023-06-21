@@ -2,7 +2,7 @@
 
 ## Description
 
-The app is 
+The app is the back end for an e-commerce site. This works Express.js API and configure it to use Sequelize to interact with a MySQL database.
 
 ### User Story
 AS A manager at an internet retail company
@@ -28,7 +28,6 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 - [Installation](#installation)
 - [Usage](#usage)
-
 - [License](#license)
 
 
@@ -38,7 +37,7 @@ To get started, please follow these steps:
 
 1.Clone the repository from Github.
 
-2.Install Node.js and npm if not already installed.
+2.Install Mysql2 and npm if not already installed.
 
 3.Run npm install to install all necessary dependencies.
 
@@ -53,7 +52,7 @@ To get started, please follow these steps:
 That's it! You should now be able to use the recipe-sharing platform to share and discover new recipes with other food enthusiasts.
 
 ## Technologies
-	• Node.js and Express.js
+	• Express.js
 	• MySQL
 	• HTML, CSS, and JavaScript
 	• Handlebars
@@ -62,10 +61,7 @@ That's it! You should now be able to use the recipe-sharing platform to share an
 
 ## Usage
 
-This would be suitable for...
-
-
-
+This would be suitable to understand the fundamental architecture of e-commerce sites.
 
 ## License
 ${renderLicenseSection(data.license)} 

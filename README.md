@@ -1,4 +1,4 @@
-# Note Taker ORM E-commerce Back End
+# ORM E-commerce Back End Project
 
 ## Description
 
